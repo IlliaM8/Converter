@@ -1,0 +1,7 @@
+@import "../../../variable";
+.select {
+  width: $inputs__width;
+  font-size: $input__f__size;
+  border-radius: 3px;
+  border: $inputs__border;
+}

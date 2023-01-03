@@ -1,0 +1,9 @@
+$inputs__width: 45%;
+
+$inputs__border: solid 1px rgb(199, 199, 199);
+
+$input__f__size: 12px;
+
+@mixin transition__ease($time) {
+  transition: all ease $time;
+}
