@@ -25,7 +25,6 @@ function App() {
 
   return (
     <div className="wrapper">
-      <h1 className="title">Конвертер</h1>
       <div className="container">
         <ValueInput getValue={getValue} value={changeValue} />
         <ConverterControl />

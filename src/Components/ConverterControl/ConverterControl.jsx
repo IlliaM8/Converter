@@ -3,7 +3,6 @@ import CurrInput from "../UI/CurrInput/CurrInput";
 import { useSelector, useDispatch } from "react-redux";
 import arrow from "./arrow.png";
 import {
-  changeCurrencies,
   rotateCurr,
   setCurrenciesFirst,
   setCurrenciesSecond,

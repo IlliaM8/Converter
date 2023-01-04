@@ -1,8 +1,7 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
-import { useSelector } from "react-redux";
 
 var myHeaders = new Headers();
-myHeaders.append("apikey", "5ZIDajEEIO6oPfi1OvbY6TZmz05IKYJ8");
+myHeaders.append("apikey", "Ha82WcCUfRfjqtxe3NgwlmxXM1QASg6D");
 
 var requestOptions = {
   method: "GET",
